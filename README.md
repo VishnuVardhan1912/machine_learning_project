@@ -8,17 +8,19 @@
 4. [GIT cli](https://git-scm.com/downloads)
 
 Creating coda environmet
-'''
+```
 conda create -p venv python==3.7 -y
-
+```
 It creates in same folder if we use -p, -n is used to create conda env in conda folder
-'''
+
+To activate envirnoment
+```
 conda activate venv/
-'''
+```
 OR
-'''
+```
 conda activate venv
-'''
+```
 
 '''
 pip install -r requirements.txt
