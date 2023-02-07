@@ -72,6 +72,6 @@ git remote -v
 
 To check branch
 
-'''
+```
 git branch
-'''
+```
